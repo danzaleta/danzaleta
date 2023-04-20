@@ -17,13 +17,13 @@
 -->
 
 ## ⚔️ Skills:
-#### 💻 Web development
+- 💻 **Web development** </br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-149eca?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![VtexIo](https://img.shields.io/badge/VTEX_IO-e31c58?style=for-the-badge&logo=vtex&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-#### 🎮 Game development
+- 🎮 **Game development** </br>
 [![C#](https://img.shields.io/badge/C_sharp-9058a6?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
 [![Unity](https://img.shields.io/badge/Unity-009999?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
 [![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-202337?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
