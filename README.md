@@ -3,8 +3,8 @@
 ![https://github.com/danzaleta](https://media.licdn.com/dms/image/C5616AQH4L1Jvv7PT-w/profile-displaybackgroundimage-shrink_350_1400/0/1655932404069?e=1687392000&v=beta&t=4YaVvP-WnMtBnf13Q9rMbemYr5kKu7HIkToYJ89jhTc)
 
 ## 🧑🏻‍💻 About me
-- 🔭 Currently working as Frontend at [Vinneren](https://www.vinneren.com.mx) with [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-what-is-vtex-io)
-- 🌱 Currently learning JavaScript in depth
+- 🔭 Currently working as Frontend with [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-what-is-vtex-io) at [Vinneren](https://www.vinneren.com.mx)
+- 🌱 Currently learning **JavaScript** in depth
 
 <!-- 
 - 👯 I’m looking to collaborate on ...
