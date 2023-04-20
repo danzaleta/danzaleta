@@ -32,6 +32,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Zaleta-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/danzaleta)
 
-## 📩 Contact:
+## 📩 Contact me:
 
 [![Email](https://img.shields.io/badge/zaletadaniel@gmail.com-personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:zaletadaniel@gmail.com)
