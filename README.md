@@ -1,15 +1,20 @@
 # 👋 Hi, my name is Daniel Zaleta
-
+### Web & Game developer
 ![https://github.com/danzaleta](https://media.licdn.com/dms/image/C5616AQH4L1Jvv7PT-w/profile-displaybackgroundimage-shrink_350_1400/0/1655932404069?e=1687392000&v=beta&t=4YaVvP-WnMtBnf13Q9rMbemYr5kKu7HIkToYJ89jhTc)
 
+## 🧑🏻‍💻 About me
 - 🔭 Currently working as Frontend at [Vinneren](https://www.vinneren.com.mx) with [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-what-is-vtex-io)
 - 🌱 Currently learning JavaScript in depth
+
+<!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
 ## About me
 ...
+
+-->
 
 ## ⚔️ Skills:
 #### 💻 Web development
@@ -19,9 +24,9 @@
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 #### 🎮 Game development
-[![C#](https://img.shields.io/badge/Csharp-9058a6?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/C_sharp-9058a6?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
 [![Unity](https://img.shields.io/badge/Unity-009999?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
-[![UnrealEngine](https://img.shields.io/badge/UnrealEngine-202337?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
+[![UnrealEngine](https://img.shields.io/badge/Unreal_Engine-202337?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
 
 ## 🔍 Find me at:
 
